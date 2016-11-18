@@ -7,7 +7,7 @@
 // Heap Sort
 /* http://wuchong.me/blog/2014/02/09/algorithm-sort-summary/
  七、堆排序 HeapSort
- 介绍：
+ 介绍： 
  
  堆排序在 top K 问题中使用比较频繁。堆排序是采用二叉堆的数据结构来实现的，虽然实质上还是一维数组。二叉堆是一个近似完全二叉树 。
  
