@@ -32,7 +32,7 @@ using namespace std;
 //inline int parent(int i){return (i-1)/2;}
 //inline int leftchild(int i){return (i*2) + 1;}
 //inline int rightchild(int i){return (i*2) + 2;}
-
+ 
 void max_heapify(vector<int>& nums, int start, int end, int n){
     // end 不能忘记，因为这个就是用来控制调整范围的，每次相当于把最大的元素放在最后，然后去调整前面的。
     //用以维护heap的性质
